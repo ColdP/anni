@@ -1,0 +1,82 @@
+帮我写一个HTML网页，以介绍0M_P 10th ANNIVERSARY PROJECT -「RE : WiND」，界面设计风格、颜色、字体等要求符合"RE : WiND"的主题（彩虹色+浅色主题），采用Material 3 Expressive（https://m3.material.io/blog/building-with-m3-expressive）的设计语言，但是整体使用直角+小圆角+漫画风设计，页面语言为英文、日文、中文（简体），且支持切换
+按钮颜色使用主题色，饱和度不要太高
+整个页面有丝滑的动画效果
+
+网页分为以下内容：
+1.大标题+主视觉图（header，铺满整个屏幕顶端）
+KV铺满整个header
+KV：https://anni.0m-p.space/10th/10th-KV.png (铺满header)
+LOGO https://anni.0m-p.space/10th/10th-Logo.png
+My voice echoes, throughout the world. / 全世界に、私の声が木霊する。/ 整个世界，回响着我的声音
+
+
+2.0M_P 10th ANNIVERSARY WORLD TOUR「WHOLE WORLD」
+主视觉图（16：9）
+将于2026年2-7月举办，举办地区覆盖亚洲、美洲、欧洲、澳洲等地区，预计动员40万人。其中包含3天3场的TOKYO DOME演唱会，1天2场中国国家体育场演唱会以及2天2场的KYOCERA DOME OSAKA演出，5场公演预计总共动员28万人。
+全球
+Official Page: https://tour.0m-p.space/26
+
+3.0M_P 10th ANNIVERSARY COMPLICATION ALBUM「BEST of 0M_P 2016-2026」
+2026.8.12 Release
+Jacket 
+DISC.1 Hello World!
+DISC.2 Reloaded
+DISC.3 You Need
+Official Page: https://album.0m-p.space/10th_BEST
+
+4.0M_P VIRTUAL LIVE TOUR「On-Site : AROUND THE WORLD」
+主视觉图（16：9）
+「On-Site」是什么？是由环球音乐主办、MARZA协力的0M_P 3DCG演唱会，使用全息投影技术。目前已经在北京、上海、东京、中国香港等多地举办，2年共动员8万余人。
+0M_P VIRTUAL LIVE TOUR「On-Site : AROUND THE WORLD」将于2026年8-9月举办，是一次世界巡回演唱会，将覆盖亚洲、欧洲、北美等地。具体的举办时间、举办地点等信息将于后日公布。
+Official Page: https://vlive.0m-p.space/26
+
+
+5.0M_P's Classic MV Remaking Project「The Past Decade」
+主视觉图（16：9）
+本次PROJECT致力于重新制作0M_P活动早期的经典曲目的MV，共8首
+将于2026年1月开始在0M_P官方频道发布，发布时间为2026年1-4月的第一、第三个周五。
+
+REMADE MV LIST
+2016 Favorite Dress
+2017 ハジメテノオモイ
+2018 UUU
+2019 一直在更新中
+2020 No thanks
+2021 Bye bye, this %PLANET%
+2022 みらいの言葉
+2023 39% Love
+
+
+6.0M_P 10th ANNIVERSARY SONG 「Hello World!」
+主视觉图（16：9）
+2026.8.31 Release
+
+7.0M_P x プロセカ COLLABORATION
+主视觉图（16：9）
+プロセカ将于2026年7月追加以下歌曲！2026年7-9月将现时追加0M_P演唱的版本。
+「You Need - Reloaded」
+「After Dream (NONE Awaking Remix)」
+「Hello World!」
+
+8.0M_P介绍
+Avatar：https://links.0m-p.space/Avatar.png
+Sound Producer / Singer / VOCALOID Producer / Writer
+2016年开始活动，VOCALOID歌曲主要由初音未来演唱
+2022年从环球音乐旗下的Polydor Records主流出道，目前所属日本环球音乐旗下
+作品有"You Need" "natural love" "Drama of Play"
+
+9.0M_P其他信息
+演唱会品牌
+0M_P Virtual Live "On-Site" (vlive.0m-p.space)
+0M_P WORLD TOUR (tour.0m-p.space)
+0M_P CHINA TOUR 2025 "今天的事情" (tour.0m-p.space/China/2025)
+专辑
+0M_P 5th Album "Brand New World" 2025.9.10 Release (https://album.0m-p.space/5th)
+0M_P WORLD TOUR 2025 "FLOWERS" OFFICIAL ALBUM 2025.7.16 Release (album.0m-p.space/tour_25)
+
+9.版权信息（这一部分不要翻译，保持英文，此部分背景为深色）
+https://www.universalmusic.com/wp-content/themes/umgcore2/assets/img/logo.png （UNVIERSAL MUSIC GROUP LOGO，指向https://www.universal-music.co.jp/）
+Key Visual by 左
+Web Designed by AxM Production / Art Director : White / Concept Artist : 0M_P
+© 2025-2026 UNIVERSAL MUSIC LLC / 0M_P ALL RIGHTS RESERVED.
+初音ミク © Crypton Future Media, INC. www.piapro.net(www.piapro.net文本指向www.piapro.net) 图片https://nbcuni-music.com/deco27/assets/footer_credit-_Tgk5uBR.svg（与初音ミク © Crypton Future Media, INC. www.piapro.net在同一行、大小相同）
